@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377304237487",
+    "firebase_url": "https://salonhouse-370be-default-rtdb.firebaseio.com",
+    "project_id": "salonhouse-370be",
+    "storage_bucket": "salonhouse-370be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377304237487:android:ebcab663107f97cbc85b5a",
+        "android_client_info": {
+          "package_name": "com.jesustasker.salonhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377304237487-s24n6ub0agiquvbd53r4mn6agdh0ovt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jesustasker.salonhouse",
+            "certificate_hash": "d5a963af7fa659154ec95671d00e81045a051106"
+          }
+        },
+        {
+          "client_id": "377304237487-l3jkfageu09augumnpabu9p5mf1n11l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFnPaSO6t4mTQNKU1sIJU5ZEkpGENseRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377304237487-l3jkfageu09augumnpabu9p5mf1n11l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
